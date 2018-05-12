@@ -26,6 +26,7 @@ public final class MappStorePlugin extends JavaPlugin  implements Listener {
         ClockMappApp.register();
         HelloMappApp.register();
         RyotackeyClockApp.register();
+        MinecraftClockApp.register();
         DrawMappApp.register();
 
     }

@@ -190,7 +190,7 @@ public class RyotackeyClockApp extends MappApp {
 
                     case 0:
 
-                        digitalclockDraw(Color.BLACK, g, "ryotackey_digital");
+                        digitalclockDraw(Color.ORANGE, g, "ryotackey_digital");
                         break;
 
                     case 1:
